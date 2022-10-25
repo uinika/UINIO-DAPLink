@@ -1,0 +1,21 @@
+(kicad_sch (version 20211123) (generator eeschema)
+
+  (uuid 6f4aedd5-b94a-4ae2-a428-a476c8ec49b7)
+
+  (paper "A4")
+
+  (title_block
+    (title "UINIO-DAP-Link")
+    (date "2022-10-26")
+    (rev "Version 1.0.0")
+    (company "电子技术博客 UinIO.com")
+  )
+
+  (lib_symbols
+  )
+
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)
