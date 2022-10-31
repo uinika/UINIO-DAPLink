@@ -1825,7 +1825,7 @@
     (property "Value" "STM32F103C8T6" (id 1) (at 0 -34.29 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "kicad_lceda:LQFP-48_L7.0-W7.0-P0.50-LS9.0-BL" (id 2) (at 0 29.2354 0)
+    (property "Footprint" "Uinio:LQFP-48_L7.0-W7.0-P0.50-LS9.0" (id 2) (at 0 29.2354 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (id 3) (at 0 24.1554 0)
