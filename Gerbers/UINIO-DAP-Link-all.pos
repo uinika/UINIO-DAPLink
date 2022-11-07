@@ -1,4 +1,4 @@
-### Module positions - created on Mon Nov  7 19:31:34 2022 ###
+### Module positions - created on Mon Nov  7 19:54:20 2022 ###
 ### Printed by Pcbnew version (6.0.8)
 ## Unit = mm, Angle = deg.
 ## Side : All
@@ -8,31 +8,31 @@ C2        10uF              C_0603_1608Metric                    111.8000   -98.
 C3        20pF              C_0603_1608Metric                    130.1600  -102.9340  -90.0000  top
 C4        20pF              C_0603_1608Metric                    130.1600   -99.1140   90.0000  top
 C5        0.1uF             C_0603_1608Metric                    121.7833   -99.0500   90.0000  top
-D1        LED_Red           LED_0603_1608Metric                  174.0500  -112.7100  180.0000  top
-D2        LED_Blue          LED_0603_1608Metric                  174.0400  -104.5100  180.0000  top
-D3        LED_Blue          LED_0603_1608Metric                  174.0400  -102.3300  180.0000  top
+D1        LED_Red           LED_0603_1608Metric                  170.2700  -112.7100  180.0000  top
+D2        LED_Blue          LED_0603_1608Metric                  170.2600  -104.5100  180.0000  top
+D3        LED_Blue          LED_0603_1608Metric                  170.2600  -102.3300  180.0000  top
 D4        LED_Blue          LED_0603_1608Metric                  126.0100  -115.5600   90.0000  top
 D5        LED_Red           LED_0603_1608Metric                  118.8600  -115.5600   90.0000  top
 HOLE1     Hole-1mm          Hole-1mm                             104.1700   -98.8600    0.0000  top
 HOLE2     Hole-1mm          Hole-1mm                             104.1700  -115.8600    0.0000  top
 HOLE3     Hole-2mm          Hole-2mm                             134.6700  -115.5100    0.0000  top
 HOLE4     Hole-2mm          Hole-2mm                             134.7100   -99.2600    0.0000  top
-HOLE5     Hole-2mm          Hole-2mm                             164.2940   -94.8100    0.0000  top
-HOLE6     Hole-2mm          Hole-2mm                             164.3340  -119.9200    0.0000  top
-HOLE7     Hole-2mm          Hole-2mm                             182.2140  -119.9500    0.0000  top
-HOLE8     Hole-2mm          Hole-2mm                             182.1940   -94.8100    0.0000  top
-J1        扩展板串口_&_电源输出  PinHeader_1x05_P2.54mm_Vertical      168.1850   -94.8940   90.0000  top
-J2        扩展板_JTAG_输出  IDC-Header_2x10_P2.54mm_Horizontal   185.5885   -95.7920    0.0000  top
-J3        JTAG_nTRST_跳线选择  PinHeader_1x02_P2.54mm_Vertical      175.7550  -119.8640   90.0000  top
-J4        3.3V_跳线选择  PinHeader_1x02_P2.54mm_Vertical      168.1950  -119.8640   90.0000  top
-J5        扩展板_SWD_输入  IDC-Header_2x05_P2.54mm_Horizontal   166.6815  -112.4500  180.0000  top
+HOLE5     Hole-2mm          Hole-2mm                             160.5140   -94.8100    0.0000  top
+HOLE6     Hole-2mm          Hole-2mm                             160.5540  -119.9200    0.0000  top
+HOLE7     Hole-2mm          Hole-2mm                             178.4340  -119.9500    0.0000  top
+HOLE8     Hole-2mm          Hole-2mm                             178.4140   -94.8100    0.0000  top
+J1        扩展板串口_&_电源输出  PinHeader_1x05_P2.54mm_Vertical      164.4050   -94.8940   90.0000  top
+J2        扩展板_JTAG_输出  IDC-Header_2x10_P2.54mm_Horizontal   181.8085   -95.7920    0.0000  top
+J3        JTAG_nTRST_跳线选择  PinHeader_1x02_P2.54mm_Vertical      171.9750  -119.8640   90.0000  top
+J4        3.3V_跳线选择  PinHeader_1x02_P2.54mm_Vertical      164.4150  -119.8640   90.0000  top
+J5        扩展板_SWD_输入  IDC-Header_2x05_P2.54mm_Horizontal   162.9015  -112.4500  180.0000  top
 J6        DAPLink_固件下载接口  PinHeader_1x04_P2.54mm_Vertical      106.9400  -115.9400   90.0000  top
 J7        JTAG/SWD_下载接口  IDC-Header_2x05_P2.54mm_Horizontal   133.2400  -102.3200    0.0000  top
-R1        1.5K              R_0603_1608Metric                    177.7600  -112.7100  180.0000  top
-R2        1.5K              R_0603_1608Metric                    177.6990  -104.5500    0.0000  top
-R3        1.5K              R_0603_1608Metric                    177.6990  -102.3400    0.0000  top
-R4        22R               R_0603_1608Metric                    174.0600  -109.5500  180.0000  top
-R5        22R               R_0603_1608Metric                    174.0600  -107.7700  180.0000  top
+R1        1.5K              R_0603_1608Metric                    173.9800  -112.7100  180.0000  top
+R2        1.5K              R_0603_1608Metric                    173.9190  -104.5500    0.0000  top
+R3        1.5K              R_0603_1608Metric                    173.9190  -102.3400    0.0000  top
+R4        22R               R_0603_1608Metric                    170.2800  -109.5500  180.0000  top
+R5        22R               R_0603_1608Metric                    170.2800  -107.7700  180.0000  top
 R6        10K               R_0603_1608Metric                    120.1100   -99.0500   90.0000  top
 R7        10K               R_0603_1608Metric                    118.4200   -99.0500   90.0000  top
 R8        10K               R_0603_1608Metric                    116.7500   -99.0500   90.0000  top
