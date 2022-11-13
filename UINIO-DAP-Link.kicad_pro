@@ -170,7 +170,9 @@
     "equivalence_files": []
   },
   "erc": {
-    "erc_exclusions": [],
+    "erc_exclusions": [
+      "multiple_net_names|419100|1384300|f6c042a6-2980-44bc-b680-b715637889dc|21147d7a-2c60-4a81-831a-4c30f6ec3495"
+    ],
     "meta": {
       "version": 0
     },
@@ -361,7 +363,7 @@
       "lib_symbol_issues": "warning",
       "multiple_net_names": "warning",
       "net_not_bus_member": "warning",
-      "no_connect_connected": "warning",
+      "no_connect_connected": "ignore",
       "no_connect_dangling": "warning",
       "pin_not_connected": "error",
       "pin_not_driven": "ignore",
