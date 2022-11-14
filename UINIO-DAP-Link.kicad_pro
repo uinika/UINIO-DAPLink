@@ -65,7 +65,7 @@
         "version": 2
       },
       "rule_severities": {
-        "annular_width": "error",
+        "annular_width": "ignore",
         "clearance": "error",
         "copper_edge_clearance": "error",
         "courtyards_overlap": "ignore",
@@ -170,9 +170,7 @@
     "equivalence_files": []
   },
   "erc": {
-    "erc_exclusions": [
-      "multiple_net_names|419100|1384300|f6c042a6-2980-44bc-b680-b715637889dc|21147d7a-2c60-4a81-831a-4c30f6ec3495"
-    ],
+    "erc_exclusions": [],
     "meta": {
       "version": 0
     },
