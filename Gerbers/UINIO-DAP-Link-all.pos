@@ -1,12 +1,12 @@
-### Module positions - created on Mon Nov  7 23:26:32 2022 ###
-### Printed by Pcbnew version (6.0.8)
+### Module positions - created on Thu Nov 17 02:13:07 2022 ###
+### Printed by Pcbnew version (6.0.9)
 ## Unit = mm, Angle = deg.
-## Side : top
+## Side : All
 # Ref     Val               Package                                  PosX       PosY       Rot  Side
 C1        10nF              C_0603_1608Metric                    111.8000  -100.4640  180.0000  top
 C2        10uF              C_0603_1608Metric                    111.8000   -98.5340    0.0000  top
-C3        20pF              C_0603_1608Metric                    130.1600  -102.9340  -90.0000  top
-C4        20pF              C_0603_1608Metric                    130.1600   -99.1140   90.0000  top
+C3        20pF              C_0603_1608Metric                    129.0300  -102.9300  -90.0000  top
+C4        20pF              C_0603_1608Metric                    129.0100   -99.1200   90.0000  top
 C5        0.1uF             C_0603_1608Metric                    121.7833   -99.0500   90.0000  top
 D1        LED_Red           LED_0603_1608Metric                  170.2700  -112.7100  180.0000  top
 D2        LED_Blue          LED_0603_1608Metric                  170.2600  -104.5100  180.0000  top
@@ -43,5 +43,5 @@ R12       10K               R_0603_1608Metric                    120.6500  -115.
 U1        ME6211            SOT-23-5_L3.0-W1.7-P0.95-LS2.8-BR    108.3700   -99.5240  180.0000  top
 U2        STM32F103C8T6     LQFP-48_L7.0-W7.0-P0.50-LS9.0        118.9418  -107.4000  135.0000  top
 USB1      USB_Type_C_16Pin  USB-C-SMD_TYPEC-304J-BCP16           107.2700  -107.4500  -90.0000  top
-Y1        Crystal_GND24     Crystal_SMD_0603-4Pin_6.0x3.5mm      127.1300  -101.0200  -90.0000  top
+Y1        Crystal_GND24     Crystal_SMD_3225-4Pin_3.2x2.5mm      126.0600  -101.0200  -90.0000  top
 ## End
