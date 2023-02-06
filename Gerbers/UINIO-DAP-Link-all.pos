@@ -1,18 +1,18 @@
-### Module positions - created on Wed Jan 11 19:17:43 2023 ###
-### Printed by Pcbnew version (6.0.10)
+### Module positions - created on Mon Feb  6 14:01:50 2023 ###
+### Printed by Pcbnew version (6.0.11)
 ## Unit = mm, Angle = deg.
 ## Side : All
 # Ref     Val               Package                                  PosX       PosY       Rot  Side
 C1        10nF              C_0603_1608Metric                    111.8000  -100.4640  180.0000  top
 C2        10uF              C_0603_1608Metric                    111.8000   -98.5340    0.0000  top
-C3        20pF              C_0603_1608Metric                    130.6700  -114.9700  -90.0000  top
-C4        20pF              C_0603_1608Metric                    130.6700  -112.0100   90.0000  top
-C5        0.1uF             C_0603_1608Metric                    123.1112  -115.7800  -90.0000  top
+C3        20pF              C_0603_1608Metric                    130.8500  -114.9700  -90.0000  top
+C4        20pF              C_0603_1608Metric                    130.8500  -112.0100   90.0000  top
+C5        0.1uF             C_0603_1608Metric                    123.3400  -115.7900  -90.0000  top
 D1        LED_Red           LED_0603_1608Metric                  170.2700  -112.7100  180.0000  top
 D2        LED_Blue          LED_0603_1608Metric                  170.2600  -104.5100  180.0000  top
 D3        LED_Blue          LED_0603_1608Metric                  170.2600  -102.3300  180.0000  top
-D4        LED_Blue          LED_0603_1608Metric                  117.9900  -115.7800   90.0000  top
-D5        LED_Red           LED_0603_1608Metric                  117.9600   -99.0500  -90.0000  top
+D4        LED_Blue          LED_0603_1608Metric                  118.2300  -115.7500   90.0000  top
+D5        LED_Red           LED_0603_1608Metric                  118.2300   -99.0500  -90.0000  top
 HOLE1     Hole-1mm          Hole-1mm                             104.1700   -98.8600    0.0000  top
 HOLE2     Hole-1mm          Hole-1mm                             104.1700  -115.8600    0.0000  top
 HOLE3     Hole-2mm          Hole-2mm                             134.6700  -115.5100    0.0000  top
@@ -26,25 +26,27 @@ J2        扩展板_JTAG_输出  IDC-Header_2x10_P2.54mm_Horizontal   181.8085  
 J3        JTAG_nTRST_跳线选择  PinHeader_1x02_P2.54mm_Vertical      171.9750  -119.8640   90.0000  top
 J4        3.3V_跳线选择  PinHeader_1x02_P2.54mm_Vertical      164.4150  -119.8640   90.0000  top
 J5        扩展板_SWD_输入  IDC-Header_2x05_P2.54mm_Horizontal   162.9015  -112.4500  180.0000  top
-J6        DAPLink_固件下载接口  PinHeader_1x04_P2.54mm_Vertical      106.9400  -115.9400   90.0000  top
+J6        DAPLink_固件下载接口  PinHeader_1x04_P2.54mm_Vertical      106.7900  -116.2500   90.0000  top
 J7        JTAG/SWD_下载接口  IDC-Header_2x05_P2.54mm_Horizontal   133.2400  -102.3200    0.0000  top
 R1        1.5K              R_0603_1608Metric                    173.9800  -112.7100  180.0000  top
 R2        1.5K              R_0603_1608Metric                    173.9190  -104.5500    0.0000  top
 R3        1.5K              R_0603_1608Metric                    173.9190  -102.3400    0.0000  top
 R4        22R               R_0603_1608Metric                    170.2800  -109.5500  180.0000  top
 R5        22R               R_0603_1608Metric                    170.2800  -107.7700  180.0000  top
-R6        10K               R_0603_1608Metric                    124.8050  -115.7800  -90.0000  top
-R7        10K               R_0603_1608Metric                    124.8700   -99.0500   90.0000  top
-R8        10K               R_0603_1608Metric                    123.1525   -99.0500   90.0000  top
-R9        100R              R_0603_1608Metric                    121.4350   -99.0500  -90.0000  top
-R10       10K               R_0603_1608Metric                    121.4175  -115.7800  -90.0000  top
-R11       10K               R_0603_1608Metric                    119.7237  -115.7800  -90.0000  top
-R12       10K               R_0603_1608Metric                    119.7175   -99.0500   90.0000  top
+R6        10K               R_0603_1608Metric                    125.0300  -115.7900  -90.0000  top
+R7        10K               R_0603_1608Metric                    125.0300   -99.0500   90.0000  top
+R8        10K               R_0603_1608Metric                    123.3400   -99.0500   90.0000  top
+R9        100R              R_0603_1608Metric                    121.6500   -99.0500  -90.0000  top
+R10       10K               R_0603_1608Metric                    121.6500  -115.7900  -90.0000  top
+R11       10K               R_0603_1608Metric                    119.9600  -115.7900  -90.0000  top
+R12       10K               R_0603_1608Metric                    119.9600   -99.0500   90.0000  top
 R13       22R               R_0603_1608Metric                    113.5500  -107.3200  180.0000  top
 R14       22R               R_0603_1608Metric                    113.5500  -105.8600  180.0000  top
 R15       1.5K              R_0603_1608Metric                    113.5500  -108.7800  180.0000  top
+R16       5.1K              R_0603_1608Metric                    113.5500  -104.4000  180.0000  top
+R17       5.1K              R_0603_1608Metric                    113.5500  -110.2400  180.0000  top
 U1        ME6211            SOT-23-5_L3.0-W1.7-P0.95-LS2.8-BR    108.3700   -99.5240  180.0000  top
-U2        STM32F103C8T6     LQFP-48_L7.0-W7.0-P0.50-LS9.0        121.3600  -107.3100   45.0000  top
+U2        STM32F103C8T6     LQFP-48_L7.0-W7.0-P0.50-LS9.0        121.8200  -107.2800   45.0000  top
 USB1      USB_Type_C_16Pin  USB-C-SMD_TYPEC-304J-BCP16           107.2700  -107.4500  -90.0000  top
-Y1        Crystal_GND24     Crystal_SMD_3225-4Pin_3.2x2.5mm      128.2400  -113.4200  -90.0000  top
+Y1        Crystal_GND24     Crystal_SMD_3225-4Pin_3.2x2.5mm      128.4200  -113.4200  -90.0000  top
 ## End
