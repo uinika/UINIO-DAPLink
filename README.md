@@ -1,6 +1,6 @@
 # UINIO-DAP-Link
 
-一款基于 [**DAP Link**](https://daplink.io/) 的开源 ARM 硬件调试工具电路设计。
+一款基于开源 [**ARM DAP Link**](https://daplink.io/) 固件的硬件下载调试器电路设计，采用了 `QFT48` 封装的 **STM32F103C8T6** 或者 **STM32F103RBT6** 微控制器，也兼容其它 `Pin to Pin` 的 **Cortex-M3** 微控制器（需要自行修改固件）。
 
 ![](./Images/PCB-3D-1.png)
 
