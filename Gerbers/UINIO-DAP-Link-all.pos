@@ -1,5 +1,5 @@
-### Module positions - created on Mon Feb  6 14:01:50 2023 ###
-### Printed by Pcbnew version (6.0.11)
+### Footprint positions - created on Fri Jun 30 14:06:32 2023 ###
+### Printed by KiCad version 7.0.5
 ## Unit = mm, Angle = deg.
 ## Side : All
 # Ref     Val               Package                                  PosX       PosY       Rot  Side
@@ -11,22 +11,22 @@ C5        0.1uF             C_0603_1608Metric                    123.3400  -115.
 D1        LED_Red           LED_0603_1608Metric                  170.2700  -112.7100  180.0000  top
 D2        LED_Blue          LED_0603_1608Metric                  170.2600  -104.5100  180.0000  top
 D3        LED_Blue          LED_0603_1608Metric                  170.2600  -102.3300  180.0000  top
-D4        LED_Blue          LED_0603_1608Metric                  118.2300  -115.7500   90.0000  top
+D4        LED_Blue          LED_0603_1608Metric                  118.2300  -115.7900   90.0000  top
 D5        LED_Red           LED_0603_1608Metric                  118.2300   -99.0500  -90.0000  top
-HOLE1     Hole-1mm          Hole-1mm                             104.1700   -98.8600    0.0000  top
-HOLE2     Hole-1mm          Hole-1mm                             104.1700  -115.8600    0.0000  top
-HOLE3     Hole-2mm          Hole-2mm                             134.6700  -115.5100    0.0000  top
-HOLE4     Hole-2mm          Hole-2mm                             134.7100   -99.2600    0.0000  top
+HOLE1     Hole-1mm          Hole-1mm                             104.1700   -99.1500    0.0000  top
+HOLE2     Hole-1mm          Hole-1mm                             104.1700  -115.6500    0.0000  top
+HOLE3     Hole-2mm          Hole-2mm                             134.6700  -115.6500    0.0000  top
+HOLE4     Hole-2mm          Hole-2mm                             134.7100   -99.1500    0.0000  top
 HOLE5     Hole-2mm          Hole-2mm                             160.5140   -94.8100    0.0000  top
 HOLE6     Hole-2mm          Hole-2mm                             160.5540  -119.9200    0.0000  top
 HOLE7     Hole-2mm          Hole-2mm                             178.4340  -119.9500    0.0000  top
 HOLE8     Hole-2mm          Hole-2mm                             178.4140   -94.8100    0.0000  top
 J1        扩展板串口_&_电源输出  PinHeader_1x05_P2.54mm_Vertical      164.4050   -94.8940   90.0000  top
-J2        扩展板_JTAG_输出  IDC-Header_2x10_P2.54mm_Horizontal   181.8085   -95.7920    0.0000  top
+J2        扩展板_JTAG_输出  IDC-Header_2x10_P2.54mm_Horizontal   181.8085   -95.9700    0.0000  top
 J3        JTAG_nTRST_跳线选择  PinHeader_1x02_P2.54mm_Vertical      171.9750  -119.8640   90.0000  top
 J4        3.3V_跳线选择  PinHeader_1x02_P2.54mm_Vertical      164.4150  -119.8640   90.0000  top
-J5        扩展板_SWD_输入  IDC-Header_2x05_P2.54mm_Horizontal   162.9015  -112.4500  180.0000  top
-J6        DAPLink_固件下载接口  PinHeader_1x04_P2.54mm_Vertical      106.7900  -116.2500   90.0000  top
+J5        扩展板_SWD_输入  IDC-Header_2x05_P2.54mm_Horizontal   162.9015  -112.4800  180.0000  top
+J6        DAPLink_固件下载接口  PinHeader_1x04_P2.54mm_Vertical      106.9500  -116.2500   90.0000  top
 J7        JTAG/SWD_下载接口  IDC-Header_2x05_P2.54mm_Horizontal   133.2400  -102.3200    0.0000  top
 R1        1.5K              R_0603_1608Metric                    173.9800  -112.7100  180.0000  top
 R2        1.5K              R_0603_1608Metric                    173.9190  -104.5500    0.0000  top
@@ -47,6 +47,6 @@ R16       5.1K              R_0603_1608Metric                    113.5500  -104.
 R17       5.1K              R_0603_1608Metric                    113.5500  -110.2400  180.0000  top
 U1        ME6211            SOT-23-5_L3.0-W1.7-P0.95-LS2.8-BR    108.3700   -99.5240  180.0000  top
 U2        STM32F103C8T6     LQFP-48_L7.0-W7.0-P0.50-LS9.0        121.8200  -107.2800   45.0000  top
-USB1      USB_Type_C_16Pin  USB-C-SMD_TYPEC-304J-BCP16           107.2700  -107.4500  -90.0000  top
+USB1      USB_Type_C_16Pin  USB-C-SMD_TYPEC-304J-BCP16           107.0700  -107.4400  -90.0000  top
 Y1        Crystal_GND24     Crystal_SMD_3225-4Pin_3.2x2.5mm      128.4200  -113.4200  -90.0000  top
 ## End
