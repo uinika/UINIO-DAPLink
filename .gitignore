@@ -13,3 +13,5 @@
 **/Libraries/**/*.License.*
 
 **/_autosave-**.kicad_sch
+
+**.lck
