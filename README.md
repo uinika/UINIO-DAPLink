@@ -17,4 +17,4 @@
 
 ## 配套文档
 
-关于 [**UINIO-DAP-Link**](https://gitee.com/uinika/UINIO-DAP-Link) 在 **STM32CubeIDE** 以及 **Keil µVision** 开发环境当中的应用，以及 DAPLink 固件的下载更新方法，请参见 [《ARM 调试工具 UINIO-DAP-Link 应用指南》](http://uinio.com/Project/UINIO-DAP-Link/)。
+关于 [UINIO-DAP-Link](https://gitee.com/uinika/UINIO-DAP-Link) 在 **STM32CubeIDE** 以及 **Keil µVision** 开发环境当中的应用，以及 DAPLink 固件的下载更新方法，请参考 [**UinIO.com 电子技术实验室**](https://www.uinio.com/) 中的专题文章 [《ARM 调试工具 UINIO-DAP-Link 应用指南》](http://uinio.com/Project/UINIO-DAP-Link/)。
