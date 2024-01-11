@@ -6,11 +6,15 @@
 
 ![](./Images/PCB-3D-2.png)
 
-- 采用 **USB Type-C** 接口以及 **3225** 封装的贴片晶振；
-- 提供 **SWD/JTAG** 转换板，以及清晰合理的符号标识；
-- 低压差线性稳压器 **LDO** 调整为 `ME6211C33M5G` 方案；
-- 兼容 [ARMmbed DAPLink](https://github.com/ARMmbed/DAPLink/releases/tag/v0257) 提供的 `REL v0257` 最新版本固件；
-- 预留 `1mm` 和 `2mm` 直径固定螺丝孔，方便与外壳进行固定；
-- 工程中的 `Firmware` 目录提供有已编译的最新 DAPLink 0258 固件 `Bootloader` 以及 `Interface`；
+## 功能概要
 
-> **注意**：更多关于 [**UINIO-DAP-Link**](https://gitee.com/uinika/UINIO-DAP-Link) 在 **STM32CubeIDE** 以及 **Keil µVision** 开发环境当中的应用，以及固件的下载更新方法，请参见 [《ARM 调试工具 UINIO-DAP-Link 应用指南》](http://uinio.com/Project/UINIO-DAP-Link/)。
+1. 采用 **USB Type-C** 接口以及 **3225** 封装的贴片晶振；
+2. 提供 **SWD/JTAG** 转换板，以及清晰合理的符号标识；
+3. 低压差线性稳压器 **LDO** 调整为 `ME6211C33M5G` 方案；
+4. 兼容 [ARMmbed DAPLink](https://github.com/ARMmbed/DAPLink/releases/tag/v0257) 提供的 `REL v0257` 最新版本固件；
+5. 预留 `1mm` 和 `2mm` 直径固定螺丝孔，方便与外壳进行固定；
+6. 工程中的 `Firmware` 目录提供有已编译的最新 DAPLink 0258 固件 `Bootloader` 以及 `Interface`；
+
+## 配套文档
+
+关于 [**UINIO-DAP-Link**](https://gitee.com/uinika/UINIO-DAP-Link) 在 **STM32CubeIDE** 以及 **Keil µVision** 开发环境当中的应用，以及 DAPLink 固件的下载更新方法，请参见 [《ARM 调试工具 UINIO-DAP-Link 应用指南》](http://uinio.com/Project/UINIO-DAP-Link/)。
