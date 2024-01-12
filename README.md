@@ -13,7 +13,7 @@
 3. 低压差线性稳压器 **LDO** 调整为 `ME6211C33M5G` 方案；
 4. 兼容 [ARMmbed DAPLink](https://github.com/ARMmbed/DAPLink/releases/tag/v0257) 提供的 `REL v0257` 最新版本固件；
 5. 预留 `1mm` 和 `2mm` 直径固定螺丝孔，方便与外壳进行固定；
-6. 工程中的 `Firmware` 目录提供有已编译的最新 DAPLink 0258 固件 `Bootloader` 以及 `Interface`；
+6. 工程中的 `Firmware` 目录提供有已编译的最新 **DAPLink 0258** 版本固件的 `Bootloader` 以及 `Interface`；
 
 ## 参考技术文档
 
