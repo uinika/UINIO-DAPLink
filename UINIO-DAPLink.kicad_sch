@@ -4361,6 +4361,12 @@
 		)
 	)
 	(junction
+		(at 40.64 33.02)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "002e2bd9-4ce2-4f3f-b67e-2a49de07ac58")
+	)
+	(junction
 		(at 27.94 85.09)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4379,10 +4385,16 @@
 		(uuid "11ff3848-cce2-4e7c-aecd-a434f2ccd2b7")
 	)
 	(junction
-		(at 91.44 31.75)
+		(at 93.98 33.02)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "12cc2f57-b702-48ca-85b1-4fbcb6960a00")
+	)
+	(junction
+		(at 40.64 38.1)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "1d7ad48e-5020-470a-ad80-4c005acc7a8c")
 	)
 	(junction
 		(at 172.72 119.38)
@@ -4415,7 +4427,7 @@
 		(uuid "50ef8384-3e51-49d1-ad8f-05bcd8865d7c")
 	)
 	(junction
-		(at 91.44 27.94)
+		(at 93.98 29.21)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "5554429c-16ca-4cd9-b5c9-fecab12296ca")
@@ -4629,18 +4641,12 @@
 		(uuid "e3083cba-da6a-4173-8f0c-997557442b91")
 	)
 	(no_connect
+		(at 77.47 38.1)
+		(uuid "e6f54124-421e-4163-8191-0a0ec54659f8")
+	)
+	(no_connect
 		(at 236.22 101.6)
 		(uuid "ecc0093e-ae26-450d-b4b4-d0f69ac46626")
-	)
-	(wire
-		(pts
-			(xy 91.44 41.91) (xy 95.25 41.91)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "005b4dce-896e-408f-9cae-0f14f63fe6eb")
 	)
 	(wire
 		(pts
@@ -4754,16 +4760,6 @@
 	)
 	(wire
 		(pts
-			(xy 76.2 36.83) (xy 74.93 36.83)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0bcddc45-6143-4146-bec1-f40aab25d388")
-	)
-	(wire
-		(pts
 			(xy 257.81 134.62) (xy 259.08 134.62)
 		)
 		(stroke
@@ -4864,7 +4860,7 @@
 	)
 	(wire
 		(pts
-			(xy 35.56 34.29) (xy 49.53 34.29)
+			(xy 50.8 35.56) (xy 52.07 35.56)
 		)
 		(stroke
 			(width 0)
@@ -5084,7 +5080,7 @@
 	)
 	(wire
 		(pts
-			(xy 74.93 31.75) (xy 91.44 31.75)
+			(xy 77.47 33.02) (xy 93.98 33.02)
 		)
 		(stroke
 			(width 0)
@@ -5242,6 +5238,16 @@
 		)
 		(uuid "452b6597-b09c-4b8c-b257-c5a5f4d3a6ed")
 	)
+	(wire
+		(pts
+			(xy 40.64 33.02) (xy 52.07 33.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "469a3225-2e9a-4272-8c9c-73bfda80940f")
+	)
 	(polyline
 		(pts
 			(xy 17.78 16.51) (xy 115.57 16.51)
@@ -5324,7 +5330,7 @@
 	)
 	(wire
 		(pts
-			(xy 91.44 39.37) (xy 91.44 41.91)
+			(xy 93.98 40.64) (xy 93.98 41.91)
 		)
 		(stroke
 			(width 0)
@@ -5564,16 +5570,6 @@
 	)
 	(wire
 		(pts
-			(xy 45.72 31.75) (xy 49.53 31.75)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7e140368-b765-4ca7-8b7b-6c7570bee050")
-	)
-	(wire
-		(pts
 			(xy 157.48 168.91) (xy 140.97 168.91)
 		)
 		(stroke
@@ -5684,6 +5680,16 @@
 	)
 	(wire
 		(pts
+			(xy 40.64 38.1) (xy 52.07 38.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a03d0e7a-0983-4a16-a6b8-011ce005bb5d")
+	)
+	(wire
+		(pts
 			(xy 146.05 85.09) (xy 144.78 85.09)
 		)
 		(stroke
@@ -5721,16 +5727,6 @@
 			(type default)
 		)
 		(uuid "a5459491-eaa5-48eb-87c4-ca5e1ac0ee8b")
-	)
-	(wire
-		(pts
-			(xy 85.09 36.83) (xy 83.82 36.83)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a5a15d6d-0262-4edb-b094-90849e3439b8")
 	)
 	(wire
 		(pts
@@ -5814,7 +5810,7 @@
 	)
 	(wire
 		(pts
-			(xy 91.44 27.94) (xy 91.44 31.75)
+			(xy 93.98 29.21) (xy 93.98 33.02)
 		)
 		(stroke
 			(width 0)
@@ -5892,6 +5888,16 @@
 		)
 		(uuid "c03e7139-17d7-41a0-b69d-507cef668e62")
 	)
+	(wire
+		(pts
+			(xy 40.64 33.02) (xy 40.64 38.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c0a35646-4509-4d73-937f-2d7a76d14de5")
+	)
 	(polyline
 		(pts
 			(xy 279.4 152.4) (xy 119.38 152.4)
@@ -5914,7 +5920,7 @@
 	)
 	(wire
 		(pts
-			(xy 45.72 36.83) (xy 49.53 36.83)
+			(xy 36.83 38.1) (xy 40.64 38.1)
 		)
 		(stroke
 			(width 0)
@@ -5964,7 +5970,7 @@
 	)
 	(wire
 		(pts
-			(xy 91.44 27.94) (xy 92.71 27.94)
+			(xy 93.98 29.21) (xy 95.25 29.21)
 		)
 		(stroke
 			(width 0)
@@ -5974,7 +5980,7 @@
 	)
 	(wire
 		(pts
-			(xy 91.44 24.13) (xy 91.44 27.94)
+			(xy 93.98 25.4) (xy 93.98 29.21)
 		)
 		(stroke
 			(width 0)
@@ -6341,6 +6347,16 @@
 			(type default)
 		)
 		(uuid "f4b49fb8-34b4-4860-866c-ac16a7bb3b1a")
+	)
+	(wire
+		(pts
+			(xy 40.64 25.4) (xy 40.64 24.13)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f5dc95d2-f23f-4591-97ba-2940301f83cf")
 	)
 	(polyline
 		(pts
@@ -6709,7 +6725,7 @@
 		(uuid "4f89bc59-1916-4516-90aa-6032684cd013")
 	)
 	(label "VDD_3.3V"
-		(at 91.44 24.13 180)
+		(at 93.98 25.4 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6751,17 +6767,6 @@
 			(justify left bottom)
 		)
 		(uuid "5c3f2164-73dd-4ab9-a30f-655b665e010f")
-	)
-	(label "VDD_5V"
-		(at 45.72 31.75 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "5c4a4957-4de1-44f8-b85a-ce3074943b50")
 	)
 	(label "Download_SWDIO"
 		(at 243.84 111.76 0)
@@ -6863,7 +6868,7 @@
 		(uuid "750159e1-ee1e-457c-a0e2-3f4f16dd026d")
 	)
 	(label "VDD_5V"
-		(at 45.72 36.83 180)
+		(at 36.83 38.1 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7282,7 +7287,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 91.44 35.56 0)
+		(at 93.98 36.83 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7290,23 +7295,23 @@
 		(dnp no)
 		(uuid "0321dbd3-baea-44fe-93db-9c901c5612a8")
 		(property "Reference" "C2"
-			(at 93.98 33.02 0)
+			(at 97.536 36.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "10uF"
-			(at 96.52 35.56 0)
+		(property "Value" "1uF"
+			(at 89.916 36.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 92.4052 39.37 0)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+			(at 94.9452 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7315,7 +7320,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 91.44 35.56 0)
+			(at 93.98 36.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7324,7 +7329,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 91.44 35.56 0)
+			(at 93.98 36.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7415,73 +7420,6 @@
 			(project "UINIO-DAPLink"
 				(path "/6f4aedd5-b94a-4ae2-a428-a476c8ec49b7"
 					(reference "J6")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C")
-		(at 80.01 36.83 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "0f73c9a1-f135-4d78-a671-e0160dfabc8a")
-		(property "Reference" "C1"
-			(at 82.55 35.56 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "10nF"
-			(at 80.01 40.64 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 76.2 37.7952 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 80.01 36.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 80.01 36.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "80e9b0cd-6bd1-4d1f-bb09-c3b4129b25ea")
-		)
-		(pin "2"
-			(uuid "1e43c2e3-f18f-4bd8-b86c-9f7f1243fb1a")
-		)
-		(instances
-			(project "UINIO-DAPLink"
-				(path "/6f4aedd5-b94a-4ae2-a428-a476c8ec49b7"
-					(reference "C1")
 					(unit 1)
 				)
 			)
@@ -8197,7 +8135,7 @@
 				)
 			)
 		)
-		(property "Value" "0.1uF"
+		(property "Value" "1uF"
 			(at 173.228 99.568 0)
 			(effects
 				(font
@@ -8249,7 +8187,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 35.56 34.29 270)
+		(at 50.8 35.56 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8257,7 +8195,7 @@
 		(dnp no)
 		(uuid "2cd8a866-c615-48eb-8cf1-4c6499189079")
 		(property "Reference" "#PWR01"
-			(at 29.21 34.29 0)
+			(at 44.45 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8266,7 +8204,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 32.512 34.29 90)
+			(at 47.752 35.56 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8275,7 +8213,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 35.56 34.29 0)
+			(at 50.8 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8284,7 +8222,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 35.56 34.29 0)
+			(at 50.8 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8293,7 +8231,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 35.56 34.29 0)
+			(at 50.8 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8522,7 +8460,7 @@
 	)
 	(symbol
 		(lib_id "Uinio:ME6211")
-		(at 49.53 31.75 0)
+		(at 52.07 33.02 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8530,15 +8468,15 @@
 		(dnp no)
 		(uuid "3ae3d85b-5192-4601-b9ca-2372a8cd828f")
 		(property "Reference" "U1"
-			(at 62.484 27.432 0)
+			(at 65.024 28.702 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "ME6211"
-			(at 62.484 41.148 0)
+		(property "Value" "ME6211C33M5G"
+			(at 65.024 42.418 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8546,7 +8484,7 @@
 			)
 		)
 		(property "Footprint" "Uinio:SOT-23-5_L3.0-W1.7-P0.95-LS2.8-BR"
-			(at 49.53 31.75 0)
+			(at 52.07 33.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8555,7 +8493,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 49.53 31.75 0)
+			(at 52.07 33.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8564,7 +8502,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 49.53 31.75 0)
+			(at 52.07 33.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8573,7 +8511,7 @@
 			)
 		)
 		(property "BOM名称" "低功耗LDO"
-			(at 41.402 47.498 0)
+			(at 43.942 48.768 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8869,72 +8807,6 @@
 			(project "UINIO-DAPLink"
 				(path "/6f4aedd5-b94a-4ae2-a428-a476c8ec49b7"
 					(reference "#PWR027")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 85.09 36.83 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "47be87c3-7601-4d22-aad0-565375d9d340")
-		(property "Reference" "#PWR06"
-			(at 91.44 36.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 85.09 39.37 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" ""
-			(at 85.09 36.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 85.09 36.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 85.09 36.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "c8b84b10-10f7-4342-91a8-bb632976f278")
-		)
-		(instances
-			(project "UINIO-DAPLink"
-				(path "/6f4aedd5-b94a-4ae2-a428-a476c8ec49b7"
-					(reference "#PWR06")
 					(unit 1)
 				)
 			)
@@ -11774,7 +11646,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 95.25 41.91 90)
+		(at 93.98 41.91 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11782,7 +11654,7 @@
 		(dnp no)
 		(uuid "caecf7b7-0ea8-4bef-870d-8737f1da6c63")
 		(property "Reference" "#PWR09"
-			(at 101.6 41.91 0)
+			(at 93.98 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11791,7 +11663,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 98.298 41.91 90)
+			(at 99.568 43.688 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11800,7 +11672,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 95.25 41.91 0)
+			(at 93.98 41.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11809,7 +11681,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 95.25 41.91 0)
+			(at 93.98 41.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11818,7 +11690,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 95.25 41.91 0)
+			(at 93.98 41.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11967,6 +11839,73 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:C")
+		(at 40.64 29.21 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "d0c49651-0393-4cae-97f6-132a6b35ea52")
+		(property "Reference" "C1"
+			(at 37.084 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "1uF"
+			(at 44.704 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+			(at 39.6748 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 40.64 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 40.64 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "b116b3f4-68c9-4ed1-ba0d-fd7bf1e51e92")
+		)
+		(pin "2"
+			(uuid "7bd32df0-d3fb-4bdc-9298-00e8787f26d3")
+		)
+		(instances
+			(project "UINIO-DAPLink"
+				(path "/6f4aedd5-b94a-4ae2-a428-a476c8ec49b7"
+					(reference "C1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:Fuse")
 		(at 101.6 104.14 180)
 		(unit 1)
@@ -12035,7 +11974,7 @@
 	)
 	(symbol
 		(lib_id "power:PWR_FLAG")
-		(at 92.71 27.94 270)
+		(at 95.25 29.21 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -12043,7 +11982,7 @@
 		(dnp no)
 		(uuid "d4f74650-a43f-4526-866b-43d04e40dc16")
 		(property "Reference" "#FLG03"
-			(at 94.615 27.94 0)
+			(at 97.155 29.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12052,7 +11991,7 @@
 			)
 		)
 		(property "Value" "PWR_FLAG"
-			(at 100.33 27.94 90)
+			(at 102.87 29.21 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12060,7 +11999,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 92.71 27.94 0)
+			(at 95.25 29.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12069,7 +12008,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 92.71 27.94 0)
+			(at 95.25 29.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12078,7 +12017,7 @@
 			)
 		)
 		(property "Description" "Special symbol for telling ERC where power comes from"
-			(at 92.71 27.94 0)
+			(at 95.25 29.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12771,6 +12710,72 @@
 			(project "UINIO-DAPLink"
 				(path "/6f4aedd5-b94a-4ae2-a428-a476c8ec49b7"
 					(reference "#PWR017")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 40.64 24.13 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "f92f7902-32ce-40d0-9759-9e02e5084b9e")
+		(property "Reference" "#PWR06"
+			(at 40.64 17.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 35.052 22.352 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 40.64 24.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 40.64 24.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 40.64 24.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "c6fe014b-3587-4460-b0b6-af005ab811a3")
+		)
+		(instances
+			(project "UINIO-DAPLink"
+				(path "/6f4aedd5-b94a-4ae2-a428-a476c8ec49b7"
+					(reference "#PWR06")
 					(unit 1)
 				)
 			)
