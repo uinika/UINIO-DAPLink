@@ -6636,8 +6636,8 @@
 		)
 		(uuid "2c83bc0b-cd67-4161-9036-c119ecdd82ef")
 	)
-	(label "_JTAG_nSRST_Input"
-		(at 120.65 173.99 0)
+	(label "_JTAG_nSRST"
+		(at 120.65 176.53 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6878,7 +6878,7 @@
 		)
 		(uuid "75da1cad-1bb8-4183-b1a1-e0d211793642")
 	)
-	(label "_JTAG_nSRST_Input"
+	(label "_JTAG_nSRST"
 		(at 68.58 181.61 0)
 		(fields_autoplaced yes)
 		(effects
@@ -7066,7 +7066,7 @@
 		(uuid "b006c858-90ca-4dc2-a483-f83adae51e8b")
 	)
 	(label "_JTAG_TDO"
-		(at 120.65 176.53 0)
+		(at 120.65 173.99 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
