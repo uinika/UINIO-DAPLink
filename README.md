@@ -2,6 +2,8 @@
 
 [**UINIO-DAP-Link**](https://gitee.com/uinika/UINIO-DAP-Link) 是一款基于 [**ARM DAP Link**](https://daplink.io/) 开源固件的硬件下载调试电路设计，采用了 `LQFP48` 封装的 **STM32F103CBT6** 或者 **STM32F103C8T6** 微控制器作为主控芯片，同时也兼容其它 `Pin to Pin` 的 **Cortex-M3** 微控制器（需要自行调整固件）。
 
+https://github.com/ARMmbed/mbed-HDK-Eagle-Projects
+
 ![](./Images/PCB-3D-1.png)
 
 ![](./Images/PCB-3D-2.png)
