@@ -6303,14 +6303,14 @@
 		)
 		(uuid "074ca7ed-88f8-4b0c-9d97-6dc151648c56")
 	)
-	(text "JTAG 扩展板"
+	(text "SWD-JTAG\n转接板"
 		(exclude_from_sim no)
-		(at 74.168 149.86 0)
+		(at 92.964 151.892 0)
 		(effects
 			(font
 				(size 4 4)
 			)
-			(justify left bottom)
+			(justify bottom)
 		)
 		(uuid "24f6bf9b-5c44-42e2-8182-97321777fe1b")
 	)
@@ -6347,9 +6347,9 @@
 		)
 		(uuid "e09b71c0-93df-4bd5-b32e-5ce22244ef67")
 	)
-	(text "ME6211 线性稳压器\n"
+	(text "ME6211C33M5G 线性稳压器\n"
 		(exclude_from_sim no)
-		(at 39.37 57.912 0)
+		(at 30.48 57.912 0)
 		(effects
 			(font
 				(size 4 4)
