@@ -4425,7 +4425,7 @@
 		(uuid "d88536a7-b503-4a0e-97c2-68488a85950f")
 	)
 	(junction
-		(at 143.51 31.75)
+		(at 142.24 31.75)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "da242cc0-1c74-488a-9e65-e9175938fd6e")
@@ -4822,7 +4822,7 @@
 	)
 	(wire
 		(pts
-			(xy 57.15 95.25) (xy 69.85 95.25)
+			(xy 57.15 95.25) (xy 71.12 95.25)
 		)
 		(stroke
 			(width 0)
@@ -5012,7 +5012,7 @@
 	)
 	(wire
 		(pts
-			(xy 132.08 31.75) (xy 133.35 31.75)
+			(xy 129.54 31.75) (xy 132.08 31.75)
 		)
 		(stroke
 			(width 0)
@@ -5462,7 +5462,7 @@
 	)
 	(wire
 		(pts
-			(xy 140.97 39.37) (xy 143.51 39.37)
+			(xy 139.7 39.37) (xy 142.24 39.37)
 		)
 		(stroke
 			(width 0)
@@ -5712,7 +5712,7 @@
 	)
 	(wire
 		(pts
-			(xy 143.51 39.37) (xy 143.51 31.75)
+			(xy 142.24 39.37) (xy 142.24 31.75)
 		)
 		(stroke
 			(width 0)
@@ -5742,7 +5742,7 @@
 	)
 	(wire
 		(pts
-			(xy 146.05 31.75) (xy 143.51 31.75)
+			(xy 144.78 31.75) (xy 142.24 31.75)
 		)
 		(stroke
 			(width 0)
@@ -5752,7 +5752,7 @@
 	)
 	(wire
 		(pts
-			(xy 143.51 31.75) (xy 140.97 31.75)
+			(xy 142.24 31.75) (xy 139.7 31.75)
 		)
 		(stroke
 			(width 0)
@@ -5952,7 +5952,7 @@
 	)
 	(wire
 		(pts
-			(xy 133.35 39.37) (xy 132.08 39.37)
+			(xy 132.08 39.37) (xy 130.81 39.37)
 		)
 		(stroke
 			(width 0)
@@ -6282,7 +6282,7 @@
 	)
 	(wire
 		(pts
-			(xy 109.22 179.07) (xy 100.33 179.07)
+			(xy 120.65 179.07) (xy 100.33 179.07)
 		)
 		(stroke
 			(width 0)
@@ -6609,8 +6609,8 @@
 		)
 		(uuid "f9826f8d-42af-412e-b253-fa7dfb173554")
 	)
-	(label "_VDD_5V"
-		(at 109.22 179.07 0)
+	(label "_VDD_5V_Fuse"
+		(at 120.65 179.07 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6785,7 +6785,7 @@
 		)
 		(uuid "3477e0c6-a2b9-4f36-9f35-7187bc76f4a5")
 	)
-	(label "_VDD_5V"
+	(label "_VDD_5V_Fuse"
 		(at 44.45 184.15 0)
 		(fields_autoplaced yes)
 		(effects
@@ -6983,7 +6983,7 @@
 		)
 		(uuid "750159e1-ee1e-457c-a0e2-3f4f16dd026d")
 	)
-	(label "VDD_5V"
+	(label "VDD_5V_Fuse"
 		(at 36.83 38.1 180)
 		(fields_autoplaced yes)
 		(effects
@@ -7016,7 +7016,7 @@
 		)
 		(uuid "7c542bc7-602d-4b12-ad2b-2c572766c7aa")
 	)
-	(label "VDD_5V"
+	(label "VDD_5V_Fuse"
 		(at 248.92 33.02 0)
 		(fields_autoplaced yes)
 		(effects
@@ -7072,7 +7072,7 @@
 		(uuid "85c4afeb-b6a2-4ba0-8208-69a1319317b4")
 	)
 	(label "VDD_5V"
-		(at 132.08 31.75 180)
+		(at 129.54 31.75 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7093,8 +7093,8 @@
 		)
 		(uuid "8a02ab40-a6f9-43d5-be4e-3f00010e23cf")
 	)
-	(label "VDD_5V"
-		(at 146.05 31.75 0)
+	(label "VDD_5V_Fuse"
+		(at 144.78 31.75 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7259,7 +7259,7 @@
 		(uuid "c3e4bcc1-6d29-415e-9872-6a64fefd8e06")
 	)
 	(label "VDD_5V"
-		(at 69.85 95.25 0)
+		(at 71.12 95.25 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7615,7 +7615,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 132.08 39.37 270)
+		(at 130.81 39.37 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7623,7 +7623,7 @@
 		(dnp no)
 		(uuid "13ed3918-1089-454b-816f-d654e99efcdc")
 		(property "Reference" "#PWR030"
-			(at 125.73 39.37 0)
+			(at 124.46 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7632,7 +7632,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 129.286 39.37 90)
+			(at 128.016 39.37 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7641,7 +7641,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 132.08 39.37 0)
+			(at 130.81 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7650,7 +7650,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 132.08 39.37 0)
+			(at 130.81 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7659,7 +7659,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 132.08 39.37 0)
+			(at 130.81 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8449,7 +8449,7 @@
 	)
 	(symbol
 		(lib_id "Diode:1N4007")
-		(at 137.16 39.37 0)
+		(at 135.89 39.37 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -8458,7 +8458,7 @@
 		(dnp no)
 		(uuid "2f56480e-73fd-4146-afe9-d6c88e8755f4")
 		(property "Reference" "D6"
-			(at 134.366 38.354 0)
+			(at 133.096 38.354 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8466,7 +8466,7 @@
 			)
 		)
 		(property "Value" "1N4007"
-			(at 136.906 42.164 0)
+			(at 135.636 42.164 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8474,7 +8474,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:D_SMA"
-			(at 137.16 43.815 0)
+			(at 135.89 43.815 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8483,7 +8483,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.vishay.com/docs/88503/1n4001.pdf"
-			(at 137.16 39.37 0)
+			(at 135.89 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8492,7 +8492,7 @@
 			)
 		)
 		(property "Description" "1000V 1A General Purpose Rectifier Diode, DO-41"
-			(at 137.16 39.37 0)
+			(at 135.89 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8501,7 +8501,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 137.16 39.37 0)
+			(at 135.89 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8510,7 +8510,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 137.16 39.37 0)
+			(at 135.89 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12188,7 +12188,7 @@
 	)
 	(symbol
 		(lib_id "Device:Fuse")
-		(at 137.16 31.75 270)
+		(at 135.89 31.75 270)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -12197,7 +12197,7 @@
 		(dnp no)
 		(uuid "d2a99983-4d04-42cf-aa68-d464a76493bf")
 		(property "Reference" "F1"
-			(at 137.16 29.972 90)
+			(at 135.89 29.972 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12205,7 +12205,7 @@
 			)
 		)
 		(property "Value" "60V 1A"
-			(at 137.16 33.782 90)
+			(at 135.89 33.782 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12213,7 +12213,7 @@
 			)
 		)
 		(property "Footprint" "Fuse:Fuse_1206_3216Metric"
-			(at 137.16 33.528 90)
+			(at 135.89 33.528 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12222,7 +12222,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 137.16 31.75 0)
+			(at 135.89 31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12231,7 +12231,7 @@
 			)
 		)
 		(property "Description" "Fuse"
-			(at 137.16 31.75 0)
+			(at 135.89 31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
