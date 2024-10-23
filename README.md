@@ -20,6 +20,6 @@
 
 [UinIO.com 电子技术实验室](http://uinio.com/) 为 **UINIO-DAP-Link** 开源项目提供了如下一系列技术参考资料：
 
-- [**《ARM 调试工具 UINIO-DAP-Link 应用指南》**](http://uinio.com/Project/UINIO-DAP-Link/)：介绍 UINIO-DAP-Link 固件的下载更新，以及在 **STM32CubeIDE** 以及 **Keil µVision** 开发环境当中的应用。
-- [**《UINIO-DAPLink 核心板原理图》**](http://uinio.com/my/works/UINIO-DAPLink/UINIO-DAPLink-Schematic.pdf)
-- [**《交互式 BOM 物料清单与 PCB 版图在线预览》**](http://uinio.com/my/works/UINIO-DAPLink/UINIO-DAPLink-BOM.html)：介绍了 UINIO-DAP-Link 硬件 PCB 所涉及的物料清单，并且还提供了布线的预览。
+- [《UINIO-DAPLink 核心板原理图》](http://uinio.com/my/works/UINIO-DAPLink/UINIO-DAPLink-Schematic.pdf)
+- [《交互式 BOM 物料清单与 PCB 版图在线预览》](http://uinio.com/my/works/UINIO-DAPLink/UINIO-DAPLink-BOM.html)
+- [《ARM 调试工具 UINIO-DAPLink 应用指南》](http://uinio.com/Project/UINIO-DAPLink/)
