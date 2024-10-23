@@ -1,0 +1,51 @@
+### Footprint positions - created on 2024-10-23T15:08:18+0800 ###
+### Printed by KiCad version 8.0.6
+## Unit = mm, Angle = deg.
+## Side : All
+# Ref     Val               Package                                  PosX       PosY       Rot  Side
+C1        1uF               C_0603_1608Metric                      4.7600    -3.8460  -90.0000  top
+C2        1uF               C_0603_1608Metric                     10.0200    -3.8460  -90.0000  top
+C3        20pF              C_0402_1005Metric                     17.3200   -23.4750   45.0000  top
+C4        20pF              C_0402_1005Metric                     14.2800   -20.4050   45.0000  top
+C5        0.1uF             C_0402_1005Metric                     22.5300   -25.7000   90.0000  top
+C6        0.1uF             C_0402_1005Metric                     23.1144    -8.7250  180.0000  top
+C7        0.1uF             C_0402_1005Metric                     14.3844   -13.9150  180.0000  top
+C8        0.1uF             C_0402_1005Metric                     32.4350   -15.2960    0.0000  top
+C9        0.1uF             C_0402_1005Metric                     14.3844   -16.0350  180.0000  top
+C10       1uF               C_0402_1005Metric                     26.2000   -25.7000  -90.0000  top
+D1        LED_Red           LED_0603_1608Metric                   72.0075    -8.6350    0.0000  top
+D2        LED_Blue          LED_0603_1608Metric                   72.0075   -22.5750    0.0000  top
+D3        LED_Blue          LED_0603_1608Metric                   72.0075   -20.0550    0.0000  top
+D4        LED_Blue          LED_0603_1608Metric                   30.3050   -26.0615   90.0000  top
+D5        LED_Red           LED_0603_1608Metric                   30.3050    -3.8715  -90.0000  top
+D6        1N4007            D_SMA                                  7.7475   -21.7850  180.0000  top
+D7        LESD5D5.0CT1G     D_SOD-523                             10.9200   -15.8750   90.0000  top
+D8        LESD5D5.0CT1G     D_SOD-523                             10.9200   -13.0250  -90.0000  top
+F1        60V_1A            Fuse_1206_3216Metric                   7.2200    -8.5650  180.0000  top
+J1        扩展板串口_&_电源输出  PinHeader_1x05_P2.54mm_Vertical       73.7100   -28.2250  -90.0000  top
+J2        扩展板_JTAG_输出  IDC-Header_2x10_P2.54mm_Horizontal    80.7035    -3.5700    0.0000  top
+J3        JTAG_nTRST_跳线选择  PinHeader_1x02_P2.54mm_Vertical       63.5600    -1.7750   90.0000  top
+J4        3.3V_跳线选择  PinHeader_1x02_P2.54mm_Vertical       71.1600    -1.7750   90.0000  top
+J5        扩展板_SWD_输入  PinSocket_1x11_P2.54mm_Vertical       52.8250   -27.6750  180.0000  top
+J6        DAPLink_固件下载接口  PinHeader_1x05_P2.54mm_Vertical       14.4800    -3.1900   90.0000  top
+J7        SWD_下载输出  PinSocket_1x11_P2.54mm_Vertical       45.2250   -27.6750  180.0000  top
+R1        1.5K              R_0402_1005Metric                     68.7525    -8.6350    0.0000  top
+R2        1.5K              R_0402_1005Metric                     68.7400   -22.5750  180.0000  top
+R3        1.5K              R_0402_1005Metric                     68.7525   -20.0550  180.0000  top
+R6        10K               R_0402_1005Metric                     24.3650   -25.7200   90.0000  top
+R7        10K               R_0402_1005Metric                     32.4550   -17.5960  180.0000  top
+R8        10K               R_0402_1005Metric                     32.4550   -19.0560    0.0000  top
+R9        100R              R_0402_1005Metric                     32.4150   -11.1060  180.0000  top
+R10       10K               R_0402_1005Metric                     14.4044   -11.9956  180.0000  top
+R11       10K               R_0603_1608Metric                     31.7650   -26.0615   90.0000  top
+R12       10K               R_0603_1608Metric                     31.7650    -3.8715  -90.0000  top
+R13       0R                R_0402_1005Metric                      8.0950   -14.9750  180.0000  top
+R14       0R                R_0402_1005Metric                      8.0950   -13.9250  180.0000  top
+R15       1.5K              R_0402_1005Metric                      8.0950   -16.0250  180.0000  top
+R16       5.1K              R_0603_1608Metric                      7.5450   -11.7750  180.0000  top
+R17       5.1K              R_0603_1608Metric                      7.5450   -18.1750  180.0000  top
+U1        ME6211C33M5G      SOT-23-5_L3.0-W1.7-P0.95-LS2.8-BR      7.3900    -3.9150  180.0000  top
+U2        STM32F103C8T6     LQFP-48_L7.0-W7.0-P0.50-LS9.0         23.0953   -14.9906  -45.0000  top
+USB1      USB_Type_C_16Pin  USB-C-SMD_TYPEC-304J-BCP16             1.1580   -15.0000  -90.0000  top
+Y1        8MHz              Crystal_SMD_3225-4Pin_3.2x2.5mm       16.4100   -21.3318   45.0000  top
+## End

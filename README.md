@@ -10,12 +10,13 @@ https://github.com/ARMmbed/mbed-HDK-Eagle-Projects
 
 ## 设计概要
 
-1. 采用 **USB Type-C** 接口以及 **3225** 封装的贴片晶振；
-2. 提供 **SWD/JTAG** 转换板，以及清晰合理的符号标识；
-3. 低压差线性稳压器 **LDO** 调整为 `ME6211C33M5G` 方案；
-4. 兼容 [ARMmbed DAPLink](https://github.com/ARMmbed/DAPLink/releases/tag/v0257) 提供的 `REL v0257` 最新版本固件；
-5. 预留 `1mm` 和 `2mm` 直径固定螺丝孔，方便与外壳进行固定；
-6. 工程中的 `Firmware` 目录提供有已编译的最新 **DAPLink 0258** 版本固件的 `Bootloader` 以及 `Interface`；
+1. 清晰合理的丝印标识，并且预留有 `2mm` 直径的固定螺丝孔；
+2. **USB Type-C** 接口位置新增一组 TVS 瞬态电压抑制二极管；
+3. 专门为 `5V` 引脚接口添加了保险丝与二极管组成的防反接电路；
+4. 附带有 **SWD** 和 **JTAG** 协议的转接板，以及相关功能的跳线位；
+5. 低压差线性稳压器 **LDO** 调整为南京微盟电子的 `ME6211C33M5G` 方案；
+6. 工程的 `Firmware` 目录已经编译好 **DAPLink 0258** 版本固件的 `Bootloader` 以及 `Interface` 二进制文件；
+7. 兼容 [ARMmbed DAPLink](https://github.com/ARMmbed/DAPLink/releases/tag/v0257) 提供的 `REL v0257` 最新版本固件；
 
 ## 参考技术文档
 
