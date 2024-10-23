@@ -1,20 +1,122 @@
-(footprint "Hole-2mm" (version 20211014) (generator pcbnew)
-  (layer "F.Cu")
-  (tedit 0)
-  (attr through_hole)
-  (fp_text reference "HOLE**" (at 0 -3 unlocked) (layer "F.SilkS") hide
-    (effects (font (size 1 1) (thickness 0.15)))
-    (tstamp b0c26777-8fc6-435a-8e2f-a348b9b8e1c6)
-  )
-  (fp_text value "Hole-2mm" (at 0 3 unlocked) (layer "F.Fab") hide
-    (effects (font (size 1 1) (thickness 0.15)))
-    (tstamp f73cab7f-d8b5-4479-96a8-8d131ef9f1d5)
-  )
-  (fp_text user "${REFERENCE}" (at 0 4.5 unlocked) (layer "F.Fab") hide
-    (effects (font (size 1 1) (thickness 0.15)))
-    (tstamp 211b454a-1e9c-4343-80b5-7cf9f4e59bdb)
-  )
-  (fp_circle (center 0 0) (end 1.8 0) (layer "B.SilkS") (width 0.1) (fill none) (tstamp 95689a3d-4c96-430d-af3b-407492483cc8))
-  (fp_circle (center 0 0) (end 1.8 0) (layer "F.SilkS") (width 0.1) (fill none) (tstamp 2b68b9c9-3f40-4ee5-a6a7-2164aa0ebe2c))
-  (pad "" thru_hole circle (at 0 0) (size 2.2 2.2) (drill 2.2) (layers *.Cu *.Mask) (tstamp 537abdf4-e960-47ee-af7f-174b60d1beb4))
+(footprint "Hole-2mm"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(property "Reference" "HOLE**"
+		(at 0 -3 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "b0c26777-8fc6-435a-8e2f-a348b9b8e1c6")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "Hole-2mm"
+		(at 0 3 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "f73cab7f-d8b5-4479-96a8-8d131ef9f1d5")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "429f97c0-b950-4068-8f85-c4bceab8736e")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "d28cfc8d-a4a6-4763-98e8-de4884aaadcd")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "3eca8f19-e730-444f-921c-61cb75ad2bcb")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_circle
+		(center 0 0)
+		(end 1.8 0)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill none)
+		(layer "B.SilkS")
+		(uuid "95689a3d-4c96-430d-af3b-407492483cc8")
+	)
+	(fp_circle
+		(center 0 0)
+		(end 1.8 0)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill none)
+		(layer "F.SilkS")
+		(uuid "2b68b9c9-3f40-4ee5-a6a7-2164aa0ebe2c")
+	)
+	(fp_circle
+		(center 0 0)
+		(end 1.8 0)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill none)
+		(layer "Margin")
+		(uuid "ff4f75bb-a6ca-45eb-9ce9-05d3845499a1")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 4.5 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "211b454a-1e9c-4343-80b5-7cf9f4e59bdb")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "" np_thru_hole circle
+		(at 0 0)
+		(size 2.2 2.2)
+		(drill 2.2)
+		(layers "F&B.Cu" "*.Mask")
+		(uuid "537abdf4-e960-47ee-af7f-174b60d1beb4")
+	)
 )
