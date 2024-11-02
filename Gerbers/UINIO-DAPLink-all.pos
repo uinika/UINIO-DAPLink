@@ -1,4 +1,4 @@
-### Footprint positions - created on 2024-10-29T14:19:12+0800 ###
+### Footprint positions - created on 2024-11-02T16:07:44+0800 ###
 ### Printed by KiCad version 8.0.6
 ## Unit = mm, Angle = deg.
 ## Side : All
@@ -24,12 +24,12 @@ D8        LESD5D5.0CT1G     D_SOD-523                             10.9200   -13.
 F1        60V_1A            Fuse_1206_3216Metric                   7.2200    -8.5650  180.0000  top
 HOLE**    Hole-2mm          Hole-2mm                              37.3850   -26.7150    0.0000  top
 HOLE**    Hole-2mm          Hole-2mm                               0.4400    -3.2150    0.0000  top
-HOLE**    Hole-2mm          Hole-2mm                              77.4800    -2.8000    0.0000  top
-HOLE**    Hole-2mm          Hole-2mm                              77.4800   -27.2000    0.0000  top
-HOLE**    Hole-2mm          Hole-2mm                              59.7900   -27.1650    0.0000  top
+HOLE**    Hole-2mm          Hole-2mm                              77.4800    -3.2150    0.0000  top
+HOLE**    Hole-2mm          Hole-2mm                              77.4800   -26.7150    0.0000  top
+HOLE**    Hole-2mm          Hole-2mm                              59.7900   -26.7150    0.0000  top
 HOLE**    Hole-2mm          Hole-2mm                               0.4400   -26.7150    0.0000  top
 HOLE**    Hole-2mm          Hole-2mm                              37.3850    -3.2150    0.0000  top
-HOLE**    Hole-2mm          Hole-2mm                              59.7900    -2.7650    0.0000  top
+HOLE**    Hole-2mm          Hole-2mm                              59.7900    -3.2150    0.0000  top
 J1        扩展板串口_&_电源输出  PinHeader_1x05_P2.54mm_Vertical       73.7100   -28.2250  -90.0000  top
 J2        扩展板_JTAG_输出  IDC-Header_2x10_P2.54mm_Horizontal    80.7035    -3.5700    0.0000  top
 J3        JTAG_nTRST_跳线选择  PinHeader_1x02_P2.54mm_Vertical       63.5600    -1.7750   90.0000  top
