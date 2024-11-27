@@ -5594,7 +5594,7 @@
 	)
 	(wire
 		(pts
-			(xy 87.63 34.29) (xy 93.98 34.29)
+			(xy 87.63 34.29) (xy 95.25 34.29)
 		)
 		(stroke
 			(width 0)
@@ -6524,7 +6524,7 @@
 	)
 	(wire
 		(pts
-			(xy 101.6 34.29) (xy 106.68 34.29)
+			(xy 102.87 34.29) (xy 106.68 34.29)
 		)
 		(stroke
 			(width 0)
@@ -9768,7 +9768,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 97.79 34.29 270)
+		(at 99.06 34.29 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9776,7 +9776,7 @@
 		(dnp no)
 		(uuid "519ef42f-d6ba-4516-9aa5-824cb7dd785f")
 		(property "Reference" "R4"
-			(at 97.79 32.258 90)
+			(at 99.06 32.258 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9784,15 +9784,15 @@
 			)
 		)
 		(property "Value" "1K"
-			(at 97.79 34.544 90)
+			(at 99.06 34.544 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 97.79 32.512 90)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+			(at 99.06 32.512 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9801,7 +9801,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 97.79 34.29 0)
+			(at 99.06 34.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9810,7 +9810,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 97.79 34.29 0)
+			(at 99.06 34.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)

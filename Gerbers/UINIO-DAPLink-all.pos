@@ -1,4 +1,4 @@
-### Footprint positions - created on 2024-11-20T12:13:45+0800 ###
+### Footprint positions - created on 2024-11-27T14:42:25+0800 ###
 ### Printed by KiCad version 8.0.6
 ## Unit = mm, Angle = deg.
 ## Side : All
@@ -9,9 +9,9 @@ C3        20pF              C_0402_1005Metric                     17.3200   -23.
 C4        20pF              C_0402_1005Metric                     14.2800   -20.4050   45.0000  top
 C5        0.1uF             C_0402_1005Metric                     22.5300   -25.7000   90.0000  top
 C6        0.1uF             C_0402_1005Metric                     23.1144    -8.2600  180.0000  top
-C7        0.1uF             C_0402_1005Metric                     14.3844   -13.9150  180.0000  top
+C7        0.1uF             C_0402_1005Metric                     14.3844   -15.0839  180.0000  top
 C8        0.1uF             C_0402_1005Metric                     32.4350   -15.2960    0.0000  top
-C9        0.1uF             C_0402_1005Metric                     14.3844   -16.0350  180.0000  top
+C9        0.1uF             C_0402_1005Metric                     14.3800   -16.7600  180.0000  top
 C10       1uF               C_0402_1005Metric                     26.2000   -25.7000  -90.0000  top
 D1        LED_Red           LED_0603_1608Metric                   72.0075    -8.6350    0.0000  top
 D2        LED_Blue          LED_0603_1608Metric                   72.0075   -22.5750    0.0000  top
@@ -21,15 +21,16 @@ D5        LED_Red           LED_0603_1608Metric                   30.3050    -3.
 D6        1N4007            Nexperia_CFP3_SOD-123W                 7.6875   -21.7850  180.0000  top
 D7        LESD5D5.0CT1G     D_SOD-523                             10.9200   -15.8750   90.0000  top
 D8        LESD5D5.0CT1G     D_SOD-523                             10.9200   -13.0250  -90.0000  top
+D9        LED_Red           LED_0603_1608Metric                   14.8400    -9.6400  180.0000  top
 F1        60V_1A            Fuse_1206_3216Metric                   7.7100    -8.5600  180.0000  top
-HOLE**    Hole-2mm          Hole-2mm                              37.3850   -26.7150    0.0000  top
-HOLE**    Hole-2mm          Hole-2mm                               0.4400    -3.2150    0.0000  top
-HOLE**    Hole-2mm          Hole-2mm                              77.7300    -3.2150    0.0000  top
-HOLE**    Hole-2mm          Hole-2mm                              77.7300   -26.7150    0.0000  top
 HOLE**    Hole-2mm          Hole-2mm                              59.7900   -26.7150    0.0000  top
 HOLE**    Hole-2mm          Hole-2mm                               0.4400   -26.7150    0.0000  top
 HOLE**    Hole-2mm          Hole-2mm                              37.3850    -3.2150    0.0000  top
+HOLE**    Hole-2mm          Hole-2mm                               0.4400    -3.2150    0.0000  top
+HOLE**    Hole-2mm          Hole-2mm                              37.3850   -26.7150    0.0000  top
 HOLE**    Hole-2mm          Hole-2mm                              59.7900    -3.2150    0.0000  top
+HOLE**    Hole-2mm          Hole-2mm                              77.7300   -26.7150    0.0000  top
+HOLE**    Hole-2mm          Hole-2mm                              77.7300    -3.2150    0.0000  top
 J1        扩展板串口_&_电源输出  PinHeader_1x05_P2.54mm_Vertical       73.7100   -28.2250  -90.0000  top
 J2        扩展板_JTAG_输出  IDC-Header_2x10_P2.54mm_Horizontal    81.3935    -3.5700    0.0000  top
 J3        JTAG_nTRST_跳线选择  PinHeader_1x02_P2.54mm_Vertical       63.5600    -1.7750   90.0000  top
@@ -40,11 +41,12 @@ J7        SWD_下载输出  PinSocket_1x11_P2.54mm_Vertical       45.2250   -27.
 R1        1.5K              R_0402_1005Metric                     68.7525    -8.6350    0.0000  top
 R2        1.5K              R_0402_1005Metric                     68.7400   -22.5750  180.0000  top
 R3        1.5K              R_0402_1005Metric                     68.7525   -20.0550  180.0000  top
+R4        1K                R_0402_1005Metric                     14.3956   -11.7017    0.0000  top
 R6        10K               R_0402_1005Metric                     24.3650   -25.7200   90.0000  top
 R7        10K               R_0402_1005Metric                     32.4550   -17.5960  180.0000  top
 R8        10K               R_0402_1005Metric                     32.4550   -19.0560    0.0000  top
 R9        100R              R_0402_1005Metric                     32.4150   -11.1060  180.0000  top
-R10       10K               R_0402_1005Metric                     14.4044   -11.9956  180.0000  top
+R10       10K               R_0402_1005Metric                     14.4000   -13.3978  180.0000  top
 R11       10K               R_0402_1005Metric                     31.7650   -26.3390   90.0000  top
 R12       10K               R_0402_1005Metric                     31.7650    -3.5940  -90.0000  top
 R13       0R                R_0402_1005Metric                      8.0950   -15.1550  180.0000  top
